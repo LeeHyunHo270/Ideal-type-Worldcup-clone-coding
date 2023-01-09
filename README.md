@@ -23,9 +23,10 @@
 <br><br>
 
 월드컵 화면 <br>
-![image](https://user-images.githubusercontent.com/74617086/211261606-afb918ad-4a0d-4890-bf1e-1cfad936dc92.png)
+![image](https://user-images.githubusercontent.com/74617086/211261864-c3ba3795-79a6-42f2-982e-3552c4a2ee8d.png)
+![image](https://user-images.githubusercontent.com/74617086/211261902-b859dc4e-9568-4feb-a8d3-985c9d9c5a00.png)
 
-![image](https://user-images.githubusercontent.com/74617086/211261553-d65c46d4-fb9b-40cb-a00e-c04c080e5547.png)
+
 
 월드컵 종료 화면<br>
 ![image](https://user-images.githubusercontent.com/74617086/211261764-03f89294-4b41-455f-8358-1065b4ba5792.png)
