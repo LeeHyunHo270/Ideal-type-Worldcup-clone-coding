@@ -1,0 +1,1 @@
+# Ideal-type-Worldcup-clone-coding
